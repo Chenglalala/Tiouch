@@ -2,7 +2,7 @@
 ---
 在米开朗基罗的《创造亚当》中，上帝与亚当即将碰触的指尖，喻示着人类将获得感受万物的六感之一——**触觉**。
 
-TODO:img1 创造亚当
+![Adam.png]https://github.com/Chenglalala/Tiouch/blob/main/image/Adam.png
 
 Taichi的高性能物理方针，创造了丰富的视觉盛宴，但我们想告诉你的是，Taichi能做的绝不仅仅是视觉，因此我们有了一个idea——**Taihci+Haptics**，交织出视觉和触觉的双重合奏。
 
