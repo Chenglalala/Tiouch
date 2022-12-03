@@ -5,12 +5,12 @@
 
 Taichi的高性能物理方针，创造了丰富的视觉盛宴，但我们想告诉你的是，Taichi能做的绝不仅仅是视觉，因此我们有了一个idea——**Taihci+Haptics**，交织出视觉和触觉的双重合奏。
 
-![触觉与视觉交织]((https://github.com/Chenglalala/Tiouch/blob/main/image/combination.png)
+![触觉与视觉交织](https://github.com/Chenglalala/Tiouch/blob/main/image/combination.png)
 
 ## Pipline
 我们通过**AOT**将Taichi的kernel部署到Unity当中，在Unity中基于Taichi C API和Taichi Unity Plugin构建Taichi runtime，这样就可以在Unity里启用我们的kernel运行啦。再通过Haptics Unity Plugin，用户就可以使用Haptics力反馈设备进行触觉的交互辣。
 
-![Pipline]((https://github.com/Chenglalala/Tiouch/blob/main/image/pipline.png)
+![Pipline](https://github.com/Chenglalala/Tiouch/blob/main/image/pipline.png)
 
 
 
